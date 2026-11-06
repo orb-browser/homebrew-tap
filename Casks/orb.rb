@@ -1,6 +1,6 @@
 cask "orb" do
-  version "0.1.0,20261105.2232"
-  sha256 "843faa84c0714795784f37daba026809a4dbf724f52a0241111cda448833bbea"
+  version "0.1.0,20261106.0007"
+  sha256 "832ffbac5371de2e9fe04ad3505e3408e4bda52c394432ec310ee5ef98287da3"
 
   url "https://services.orb.surf/updates/mac/stable/files/#{version.csv.second}/Orb-#{version.csv.second}-arm64.zip",
       verified: "services.orb.surf/updates/mac/"
